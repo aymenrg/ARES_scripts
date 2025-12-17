@@ -1,5 +1,5 @@
 # ARES_scripts
-Ce Github contient tout les scripts d'automatisation du projet ARES:
+Ce Github contient tout les scripts d'automatisation qu'on a fais dans le projet ARES:
 - Nettoyage sous forme bash
 - Setup en bash sois dans Ubuntu sois dans Fedora
 - Step 1 sous forme de Bash ou Terraform dans Fedora
